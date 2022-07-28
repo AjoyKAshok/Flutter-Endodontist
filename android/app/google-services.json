@@ -1,0 +1,303 @@
+{
+  "project_info": {
+    "project_number": "130805577097",
+    "project_id": "dent1-57a36",
+    "storage_bucket": "dent1-57a36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130805577097:android:b574fff7cf325bee88dd58",
+        "android_client_info": {
+          "package_name": "com.example.dent1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130805577097-5ahc17tilfnni9mbajil3d0t2bt7m6te.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dent1",
+            "certificate_hash": "239c78b39a08d5db1b6f129de1c29f5f86097ad2"
+          }
+        },
+        {
+          "client_id": "130805577097-j7at2q3pvh03e94rdo9d84aqf5knur61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUqAN6dhw8pZk0n6K_WREfGZZHd8jT7n0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130805577097-j7at2q3pvh03e94rdo9d84aqf5knur61.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "130805577097-1ackajonuq1dlh619jto4d7vln7u1lu1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.new1"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4263649516907121~8800997714"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130805577097:android:04cd7a29dc55045688dd58",
+        "android_client_info": {
+          "package_name": "com.example.docapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130805577097-j7at2q3pvh03e94rdo9d84aqf5knur61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUqAN6dhw8pZk0n6K_WREfGZZHd8jT7n0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130805577097-j7at2q3pvh03e94rdo9d84aqf5knur61.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "130805577097-1ackajonuq1dlh619jto4d7vln7u1lu1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.new1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130805577097:android:f215d3593ca0723888dd58",
+        "android_client_info": {
+          "package_name": "com.example.new1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130805577097-2kdchi7ilqpec7doepealjf1rusduml7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.new1",
+            "certificate_hash": "239c78b39a08d5db1b6f129de1c29f5f86097ad2"
+          }
+        },
+        {
+          "client_id": "130805577097-j7at2q3pvh03e94rdo9d84aqf5knur61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUqAN6dhw8pZk0n6K_WREfGZZHd8jT7n0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130805577097-j7at2q3pvh03e94rdo9d84aqf5knur61.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "130805577097-1ackajonuq1dlh619jto4d7vln7u1lu1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.new1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130805577097:android:3b0f1b89ce6cfa5488dd58",
+        "android_client_info": {
+          "package_name": "com.example.new2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130805577097-j7at2q3pvh03e94rdo9d84aqf5knur61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUqAN6dhw8pZk0n6K_WREfGZZHd8jT7n0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130805577097-j7at2q3pvh03e94rdo9d84aqf5knur61.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "130805577097-1ackajonuq1dlh619jto4d7vln7u1lu1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.new1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130805577097:android:b6905c945731a1e488dd58",
+        "android_client_info": {
+          "package_name": "com.oximsoft.app4doc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130805577097-1ljljvn9os6g6q3fr6t7h15a62efmn6p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oximsoft.app4doc",
+            "certificate_hash": "239c78b39a08d5db1b6f129de1c29f5f86097ad2"
+          }
+        },
+        {
+          "client_id": "130805577097-j7at2q3pvh03e94rdo9d84aqf5knur61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUqAN6dhw8pZk0n6K_WREfGZZHd8jT7n0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130805577097-j7at2q3pvh03e94rdo9d84aqf5knur61.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "130805577097-1ackajonuq1dlh619jto4d7vln7u1lu1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.new1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130805577097:android:682a6d6f74ada70688dd58",
+        "android_client_info": {
+          "package_name": "com.oximsoft.endodontist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130805577097-ckg8l55o2t50k7thsfgou6jmaa8fbekc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oximsoft.endodontist",
+            "certificate_hash": "239c78b39a08d5db1b6f129de1c29f5f86097ad2"
+          }
+        },
+        {
+          "client_id": "130805577097-j7at2q3pvh03e94rdo9d84aqf5knur61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUqAN6dhw8pZk0n6K_WREfGZZHd8jT7n0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130805577097-j7at2q3pvh03e94rdo9d84aqf5knur61.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "130805577097-1ackajonuq1dlh619jto4d7vln7u1lu1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.new1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130805577097:android:df4f1b4a6a77786a88dd58",
+        "android_client_info": {
+          "package_name": "com.oximsoft.the_endodontist_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130805577097-hls5bn64qqsqrldm0ff12q5928e2vi7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oximsoft.the_endodontist_app",
+            "certificate_hash": "239c78b39a08d5db1b6f129de1c29f5f86097ad2"
+          }
+        },
+        {
+          "client_id": "130805577097-j7at2q3pvh03e94rdo9d84aqf5knur61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUqAN6dhw8pZk0n6K_WREfGZZHd8jT7n0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130805577097-j7at2q3pvh03e94rdo9d84aqf5knur61.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "130805577097-1ackajonuq1dlh619jto4d7vln7u1lu1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.new1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
